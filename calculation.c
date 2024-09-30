@@ -17,3 +17,5 @@ mul()
 
 div();
 }
+
+printf("Hello");
