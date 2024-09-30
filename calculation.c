@@ -5,6 +5,9 @@ add()
   printf("Additon");
 }
 sub();
-mul();
+mul()
+{
+  printf("Multiplication");
+}
 div();
 }
