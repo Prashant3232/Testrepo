@@ -9,13 +9,16 @@ sub()
 {
   printf("Subtraction");
 }
-  
+
 mul()
 {
   printf("Multiplication");
 }
 
-div();
+
+div()
+{
+  printf("div");
 }
 
 printf("Hello");
