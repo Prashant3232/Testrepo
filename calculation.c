@@ -5,17 +5,15 @@ add()
   printf("Additon");
 }
 
-sub();
+sub()
+{
+  printf("Subtraction");
+}
 mul()
 {
   printf("Multiplication");
 }
 
-sub()
-{
-  printf("Subtraction");
-}
-mul();
 
 div();
 }
