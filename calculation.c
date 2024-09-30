@@ -15,5 +15,7 @@ mul()
 }
 
 
-div();
+div()
+{
+  printf("div");
 }
